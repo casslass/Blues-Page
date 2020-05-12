@@ -13,6 +13,7 @@ h1 {
 }
 
 p {
+	text-align: left;
 	max-width: 65%;
 	min-width: 500px;
 }
@@ -30,10 +31,8 @@ div {
 
 .image {
 	margin: 100px;
-	width: 515px;
-	height: 315px;
-	line-height: 215px;
-	text-align: center;
+	width: 100%;
+	
 }
 
 .resize_fit_center {
@@ -59,7 +58,4 @@ div {
 
 .nav h1 {
 	padding-left: 20px;
-}
-	 max-height: 100%
-	float: right;
-  }
+
